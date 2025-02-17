@@ -110,14 +110,13 @@ The system is optimized for detecting:
 - Priority and no-entry zones
 ---
 
-## 📁 Project Structure
+## 📁 Project Directory Structure
 
 ```
 ~/project-status-2/src/Task_5
 ├── bfmc-yolo-training.ipynb    # Training notebook
 ├── Inference.py                # Video processor
 ├── requirements.txt            # Dependencies
-├── README.md                   # Documentation
 └── models/   
 ```
 ## 🎓 Training Pipeline (bfmc-yolo-traning.ipynb)
